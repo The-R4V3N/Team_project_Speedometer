@@ -11,7 +11,7 @@ set(UARTCOM OFF) #Set to "ON" to use UART communication protocol, otherwise set 
 
 # @brief Set client directory and headers and sources
 set(CLIENT_DIR client/desktop)
-set(CLIENT_HEADERS shared/setting.h ${CLIENT_DIR}/include/window.h ${CLIENT_DIR}/include/canvas.h ${CLIENT_DIR}/include/comservice.h) 
+set(CLIENT_HEADERS shared/setting.h ${CLIENT_DIR}/include/window.h ${CLIENT_DIR}/include/canvas.h ${CLIENT_DIR}/include/comservice.h)  
 set(CLIENT_SOURCES ${CLIENT_DIR}/main.cpp ${CLIENT_DIR}/src/window.cpp ${CLIENT_DIR}/src/canvas.cpp ${CLIENT_DIR}/src/comservice.cpp)
 set(CLIENT_LIBRARIES Qt6::Core Qt6::Widgets Qt6::Multimedia)
 
