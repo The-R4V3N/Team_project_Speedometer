@@ -92,9 +92,10 @@ set(UARTCOM ON) # Switch this to ON for UART
 
 ## Contributions
 
-- [simonahls](https://github.com/simonahls) - Implemented the Server and the ESP32 Micro-controller code.
-- [isse89](https://github.com/isse89) - Implemented Server UART the Server.
-- [Supraja493](https://github.com/Supraja493) - Implemented TCP and the Abstract class the client.
+- [simonahls](https://github.com/simonahls) - Implemented the Server and the ESP32 Micro-Controller code.
+- [isse89](https://github.com/isse89) - Implemented Server gui UART Communication.
+- [Supraja493](https://github.com/Supraja493) - Implemented TCP Communication and the Abstract class the client.
+- [The-R4V3N](https://github.com/The-R4V3N) - Implemented Client gui and TCP Communication and ESP32 Micro-Controller.
 
 ## Contributing
 
