@@ -28,7 +28,8 @@
 
 The `Team` project is a C++ application that uses Qt6 for its client and server desktop applications and allows for UART and TCP communication protocols.
 
-[Speedometer/Server.webm](https://github.com/The-R4V3N/Team_project_Speedometer/assets/18666373/0624a7d9-fe47-4a98-9f1e-089d70114931)
+[Speedometer-Server.webm](https://github.com/The-R4V3N/Team_project_Speedometer/assets/18666373/7e2d5595-6a1b-4c49-bcd5-09ec9b107a06)
+
 
 
 ## Prerequisites
