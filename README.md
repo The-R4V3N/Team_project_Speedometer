@@ -28,11 +28,28 @@
 
 The `Team` project is a C++ application that uses Qt6 for its client and server desktop applications and allows for UART and TCP communication protocols.
 
+## Table of Contents
+
+- [Media](#media)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Building](#building)
+- [Contributions](#contributions)
+- [Contributing](#contributing)
+- [License](#license)
+- [Future of the project](#future)
+
+## Media
+
 ![Overview](https://github.com/The-R4V3N/Team_project_Speedometer/assets/18666373/10b9a0d2-9970-4746-ad4c-bf8cc4520a9e)
 
 [Speedometer -Server.webm](https://github.com/The-R4V3N/Team_project_Speedometer/assets/18666373/d93740bf-758a-456b-9a21-2d3ee6decb89)
 
 ![UML Diagram](https://github.com/The-R4V3N/Team_project_Speedometer/assets/18666373/7df1d3f3-ffb8-4d9d-8ae4-b9396a17386f)
+
+# Features
+
+This project showcases a Speedometer built using C++ and Qt6, accompanied by a server for remote control. It includes built-in features for monitoring temperature and battery levels, as well as turn signal lights and audible alerts. In the event of a disconnection between the server and client, a warning message will promptly notify the user."
 
 ## Prerequisites
 
@@ -40,7 +57,7 @@ The `Team` project is a C++ application that uses Qt6 for its client and server 
 - **Qt6** with the following components: Core, Widgets, Multimedia, and SerialPort
 - **PlatformIO** (for building and uploading firmware to the ESP32)
 
-## Building and Running
+## Building
 
 ### Desktop Client and Server
 
@@ -105,5 +122,11 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 ## License
 
 This project is licensed under the MIT License. Feel free to use and modify the code according to the terms of the license.
+
+## Future
+
+In the future, this project will include additional features such as a digital clock displaying the current time and an engaging startup sequence.
+
+
   
-  ![The-R4V3N](https://github.com/The-R4V3N.png?size=50) More about me can be found on my [Website](https://www.oliver-joisten.se)
+![The-R4V3N](https://github.com/The-R4V3N.png?size=50) More about me can be found on my [Website](https://www.oliver-joisten.se)
