@@ -32,6 +32,7 @@ The `Team` project is a C++ application that uses Qt6 for its client and server 
 
 [Speedometer -Server.webm](https://github.com/The-R4V3N/Team_project_Speedometer/assets/18666373/d93740bf-758a-456b-9a21-2d3ee6decb89)
 
+![UML Diagram](https://github.com/The-R4V3N/Team_project_Speedometer/assets/18666373/7df1d3f3-ffb8-4d9d-8ae4-b9396a17386f)
 
 ## Prerequisites
 
