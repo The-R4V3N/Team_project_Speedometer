@@ -41,9 +41,15 @@ The `Team` project is a C++ application that uses Qt6 for its client and server 
 
 ## Media
 
+Project Overview
+
 ![Overview](https://github.com/The-R4V3N/Team_project_Speedometer/assets/18666373/10b9a0d2-9970-4746-ad4c-bf8cc4520a9e)
 
-[Speedometer -Server.webm](https://github.com/The-R4V3N/Team_project_Speedometer/assets/18666373/d93740bf-758a-456b-9a21-2d3ee6decb89)
+Special Thanks to [nkkyviv](https://github.com/nkkyviv) for the Video!
+
+https://github.com/The-R4V3N/Team_project_Speedometer/assets/18666373/f5bed22a-1edd-4351-b1b6-e38ea5e8c8d2
+
+UML Class Diagram
 
 ![UML Diagram](https://github.com/The-R4V3N/Team_project_Speedometer/assets/18666373/7df1d3f3-ffb8-4d9d-8ae4-b9396a17386f)
 
@@ -114,6 +120,7 @@ set(UARTCOM ON) # Switch this to ON for UART
 - [isse89](https://github.com/isse89) - Implemented Server gui UART Communication.
 - [Supraja493](https://github.com/Supraja493) - Implemented TCP Communication and the Abstract class the client.
 - [The-R4V3N](https://github.com/The-R4V3N) - Implemented Client gui and TCP Communication and ESP32 Micro-Controller.
+- [nkkyviv](https://github.com/nkkyviv)  - Video creation and Editing
 
 ## Contributing
 
