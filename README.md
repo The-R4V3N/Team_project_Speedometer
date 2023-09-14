@@ -124,7 +124,7 @@ set(UARTCOM ON) # Switch this to ON for UART
 
 ## Contributing
 
-Contributions are welcome! If you have any ideas, suggestions, or improvements, please open an issue or submit a pull request.
+We welcome your contributions! If you have any ideas, suggestions, or improvements, please feel free to open an issue or submit a pull request. Before doing so, please review our [Code of Conduct.](https://github.com/The-R4V3N/Team_project_Speedometer/blob/master/CODE_OF_CONDUCT.md)
 
 ## License
 
