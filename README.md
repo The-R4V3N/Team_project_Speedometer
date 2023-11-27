@@ -25,6 +25,8 @@
 ## Team_project_Speedometer
 
   ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![Lines of code](https://tokei.rs/b1/github/The-R4V3N/Team_project_Speedometer)
+
 
 The `Team` project is a C++ application that uses Qt6 for its client and server desktop applications and allows for UART and TCP communication protocols.
 
